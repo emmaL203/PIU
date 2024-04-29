@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchirieriMasini2", "InchirieriMasini2\InchirieriMasini2.csproj", "{365A5F0D-22DE-4DA4-B7C1-74F71C26AB1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicatieInchirieriMasini3", "AplicatieInchirieriMasini3\AplicatieInchirieriMasini3.csproj", "{9F9FAAE8-56DE-4627-BD97-E9F3D65EF19A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365A5F0D-22DE-4DA4-B7C1-74F71C26AB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365A5F0D-22DE-4DA4-B7C1-74F71C26AB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365A5F0D-22DE-4DA4-B7C1-74F71C26AB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365A5F0D-22DE-4DA4-B7C1-74F71C26AB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9FAAE8-56DE-4627-BD97-E9F3D65EF19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9FAAE8-56DE-4627-BD97-E9F3D65EF19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9FAAE8-56DE-4627-BD97-E9F3D65EF19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9FAAE8-56DE-4627-BD97-E9F3D65EF19A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1433CD3B-17A7-480F-B88C-B71B5B503C77}
+	EndGlobalSection
+EndGlobal
